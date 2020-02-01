@@ -1,0 +1,5 @@
+int a= 232;
+int b = 232;
+if(a == b ) {
+ System.out.println("reverse")
+ }
